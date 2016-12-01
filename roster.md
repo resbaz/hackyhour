@@ -11,7 +11,7 @@
 |2016-12-01|Nikki Rubinstein|Alistair Walsh|
 |2016-12-08|Rosita Shishegar|Aliza Wajih|
 |2016-12-15|Sonia Ramza|Bobby Li|
-|2016-12-22|Tim Esler|Dan Sandiford|
+|2016-12-22|N/A|N/A|
 |2016-12-29|N/A|N/A|
 |2017-01-05|Sonia Ramza|Emilie Walsh|
 |2017-01-12|Vincent Khau|Errol Lloyd|
