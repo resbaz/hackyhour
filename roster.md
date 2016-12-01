@@ -13,7 +13,8 @@
 |2016-12-15|Sonia Ramza|Bobby Li|
 |2016-12-22|N/A|N/A|
 |2016-12-29|N/A|N/A|
-|2017-01-05|Sonia Ramza|Emilie Walsh|
-|2017-01-12|Vincent Khau|Errol Lloyd|
-|2017-01-19|Yamni Mohan|Kim Doyle|
-|2017-01-26|Yuandra Ismiraldi|Meredith Mccullough|
+|2017-01-05|N/A|N/A|
+|2017-01-12|Sonia Ramza|Emilie Walsh|
+|2017-01-19|Vincent Khau|Errol Lloyd|
+|2017-01-26|Yamni Mohan|Kim Doyle|
+|2017-02-02|Yuandra Ismiraldi|Meredith Mccullough|
