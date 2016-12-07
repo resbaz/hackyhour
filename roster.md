@@ -9,8 +9,8 @@
 |2016-11-17|Kim Doyle|Yamni Mohan|
 |2016-11-24|Meredith Mccullough|Nikki Rubinstein|
 |2016-12-01|Nikki Rubinstein|Alistair Walsh|
-|2016-12-08|Rosita Shishegar|Aliza Wajih|
-|2016-12-15|Sonia Ramza|Bobby Li|
+|2016-12-08|Bobby Li|Aliza Wajih|
+|2016-12-15|Sonia Ramza|Rosita Shishegar|
 |2016-12-22|N/A|N/A|
 |2016-12-29|N/A|N/A|
 |2017-01-05|N/A|N/A|
