@@ -9,11 +9,12 @@
 |2016-11-17|Kim Doyle|Yamni Mohan|
 |2016-11-24|Meredith Mccullough|Nikki Rubinstein|
 |2016-12-01|Nikki Rubinstein|Alistair Walsh|
-|2016-12-08|Rosita Shishegar|Aliza Wajih|
-|2016-12-15|Sonia Ramza|Bobby Li|
-|2016-12-22|Tim Esler|Dan Sandiford|
+|2016-12-08|Bobby Li|Aliza Wajih|
+|2016-12-15|Sonia Ramza|Rosita Shishegar|
+|2016-12-22|N/A|N/A|
 |2016-12-29|N/A|N/A|
-|2017-01-05|Sonia Ramza|Emilie Walsh|
-|2017-01-12|Vincent Khau|Errol Lloyd|
-|2017-01-19|Yamni Mohan|Kim Doyle|
-|2017-01-26|Yuandra Ismiraldi|Meredith Mccullough|
+|2017-01-05|N/A|N/A|
+|2017-01-12|Sonia Ramza|Emilie Walsh|
+|2017-01-19|Vincent Khau|Errol Lloyd|
+|2017-01-26|Yamni Mohan|Kim Doyle|
+|2017-02-02|Yuandra Ismiraldi|Meredith Mccullough|
