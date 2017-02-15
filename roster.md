@@ -1,21 +1,8 @@
 |Date|Host|Host|
 |----|----|----|
-|2016-10-06|Alistair Walsh|Yuandra Ismiraldi|
-|2016-10-13|Aliza Wajih|Rosita Shishegar|
-|2016-10-20|Bobby Li|Timothy Rice|
-|2016-10-27|Dan Sandiford|Tim Esler|
-|2016-11-03|Emilie Walsh|Timothy Rice|
-|2016-11-10|Errol Lloyd|Vincent Khau|
-|2016-11-17|Kim Doyle|Yamni Mohan|
-|2016-11-24|Meredith Mccullough|Nikki Rubinstein|
-|2016-12-01|Nikki Rubinstein|Alistair Walsh|
-|2016-12-08|Bobby Li|Aliza Wajih|
-|2016-12-15|Sonia Ramza|Rosita Shishegar|
-|2016-12-22|N/A|N/A|
-|2016-12-29|N/A|N/A|
-|2017-01-05|N/A|N/A|
-|2017-01-12|N/A|N/A|
-|2017-01-19|Vincent Khau|Errol Lloyd|
-|2017-01-26|N/A|N/A|
-|2017-02-02|Yamni Mohan|Kim Doyle|
-|2017-02-09|Yuandra Ismiraldi|Meredith Mccullough|
+|2017-02-16|Bobby Li|Brendan Ansell|
+|2017-02-23|N/A|N/A|
+|2017-03-02|Nikki Rubinstein|Timothy Rice|
+|2017-03-09|Errol Lloyd|Vinnie Khau|
+|2017-03-16|Kim Doyle|Yamni Mohan|
+|2017-03-23|Meredith Mccullough|Timothy Rice|
