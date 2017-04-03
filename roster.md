@@ -1,9 +1,10 @@
 |Date|Host|Host|
 |----|----|----|
-|2017-02-16|Bobby Li|Brendan Ansell|
-|2017-02-23|N/A|N/A|
-|2017-03-02|N/A|N/A|
-|2017-03-09|Nikki Rubinstein|Timothy Rice|
-|2017-03-16|Errol Lloyd|Vinnie Khau|
-|2017-03-23|Kim Doyle|Yamni Mohan|
-|2017-03-30|Meredith Mccullough|Timothy Rice|
+|2017-04-06|Bobby Li|Nikki Rubinstein|
+|2017-04-13|Brendan Ansell|Timothy Rice|
+|2017-04-20|Errol Lloyd|Vinnie Khau|
+|2017-04-27|Meredith Mccullough|Yamni Mohan|
+|2017-05-04|Nikki Rubinstein|Bobby Li|
+|2017-05-11|Timothy Rice|Brendan Ansell|
+|2017-05-18|Vinnie Khau|Errol Lloyd|
+|2017-05-25|Yamni Mohan|Meredith Mccullough|
